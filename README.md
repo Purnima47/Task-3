@@ -49,10 +49,6 @@ App runs on: `http://localhost:3000`
 
 ---
 
-## 📷 Screenshots
-> ![screenshot-placeholder](https://via.placeholder.com/800x400.png?text=Live+Collaborative+Editor)
-
----
 
 ## ✨ Future Improvements
 - User cursors and presence indication
